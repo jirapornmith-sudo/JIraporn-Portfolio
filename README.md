@@ -10,10 +10,18 @@
 
 ---
 
+## 🛠 Business Analyst Role & Responsibilities
+[cite_start]ในฐานะ Business Analyst ดิฉันดูแลรับผิดชอบตั้งแต่การรวบรวมความต้องการไปจนถึงการส่งมอบระบบ (Full SDLC)[cite: 4, 15]:
+
+* [cite_start]**Requirement Engineering:** ดำเนินการสัมภาษณ์เชิงลึก (User Interviews) และจัดทำ Journey Mapping เพื่อระบุ Pain Points [cite: 18]
+* [cite_start]**Backlog Management:** แปลงข้อมูลเชิงคุณภาพ (Qualitative Insights) ให้เป็น **MVP Backlog** และเขียน **User Stories** เพื่อใช้ในการพัฒนา [cite: 19, 30]
+* [cite_start]**Gap & Process Analysis:** ออกแบบ 'As-Is' vs 'To-Be' Workflows เพื่อกำหนดวิสัยทัศน์ของผลิตภัณฑ์และลด Functional Gaps [cite: 20]
+* [cite_start]**System Design:** ออกแบบโครงสร้างฐานข้อมูลเชิงสัมพันธ์ (**ERD**) สำหรับการลงประกาศสินค้าและระบบยืนยันตัวตนผู้ขาย เพื่อความโปร่งใส [cite: 21]
+* [cite_start]**Technical Bridging:** พัฒนา High-fidelity Prototyping ผ่าน **Figma** และเขียน Front-end ส่วนหนึ่งด้วย **Svelte** [cite: 23, 25]
+
 ## Problem Statement
 
-จากการสำรวจพฤติกรรมผู้บริโภค 35 ชุด และการสัมภาษณ์เชิงลึก  
-พบปัญหาหลักในตลาดสินค้ามือสองดังนี้:
+จากการวิเคราะห์พฤติกรรมผู้บริโภคผ่านการสัมภาษณ์เชิงลึกและการสำรวจ พบปัญหาหลักในตลาดสินค้ามือสองดังนี้:
 
 **Trust & Security**  
 ความกังวลเรื่องการโดนโกงและสุขอนามัยของสินค้า  
@@ -93,7 +101,10 @@
 - ค่าโฆษณา (Advertising)  
 
 ---
-
+## 💻 Technical Stack & Skills Applied
+* [cite_start]**Documentation:** Requirement Elicitation  [cite: 30]
+* [cite_start]**Design & Dev:** Figma, Svelte [cite: 23, 25, 33]
+* [cite_start]**Data:** Relational Database Design [cite: 5, 21, 33]
 ## Prototype
 
 (https://www.figma.com/proto/aNdXdOhom009ph02EJZgPD/Untitled?node-id=0-1&t=N0isE5kT7y257Od0-1)
