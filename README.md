@@ -96,4 +96,4 @@
 
 ## Prototype
 
-[Figma View Link]
+(https://www.figma.com/proto/aNdXdOhom009ph02EJZgPD/Untitled?node-id=0-1&t=N0isE5kT7y257Od0-1)
