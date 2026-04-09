@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠 Business Analyst Role & Responsibilities
+## Business Analyst Role & Responsibilities
 ในฐานะ Business Analyst ดิฉันดูแลรับผิดชอบตั้งแต่การรวบรวมความต้องการไปจนถึงการส่งมอบระบบ (Full SDLC):
 
 * **Requirement Engineering:** ดำเนินการสัมภาษณ์เชิงลึก (User Interviews) และจัดทำ Journey Mapping เพื่อระบุ Pain Points 
@@ -100,7 +100,7 @@
 - ค่าโฆษณา (Advertising)  
 
 ---
-## 💻 Technical Stack & Skills Applied
+## Technical Stack & Skills Applied
 * **Documentation:** Requirement Elicitation  
 * **Design & Dev:** Figma, Svelte 
 * **Data:** Relational Database Design 
